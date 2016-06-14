@@ -6,11 +6,11 @@ sb-admin2-rtl is a RTL version of the Bootstrap based admin theme SB Admin 2. Or
 
 You could check the original Bootstrap admin theme repository [here](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2).
 
-![Buttons](image-samples/buttons.png)
+![Buttons](extras/image-samples/buttons.png)
 
-![Tables](image-samples/tables.png)
+![Tables](extras/image-samples/tables.png)
 
-![Typography](image-samples/typography.png)
+![Typography](extras/image-samples/typography.png)
 
 ## Contributing
 
