@@ -4,7 +4,7 @@
 
 sb-admin2-rtl is a RTL version of the Bootstrap based admin theme SB Admin 2. Originally created by Start Bootstrap, all the credits of the development of the Bootstrap admin theme are of them. This is just and RTL adaptation.
 
-You could check the original Bootstrap admin theme repository [here](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2). And an online functional demo [here](http://dreamingechoes.github.io/sb-admin2-rtl/demo/index.html).
+You could check the original Bootstrap admin theme repository [here](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2). And an online functional demo [here](http://dreamingechoes.github.io/sb-admin2-rtl/demo/index.html).
 
 ![Buttons](extras/image-samples/buttons.png)
 
