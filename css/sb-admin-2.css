@@ -343,3 +343,10 @@ table.dataTable thead .sorting:after {
 .panel-yellow a:hover {
   color: #df8a13;
 }
+
+/*komicho*/
+ul.pull-left {
+    float: left;
+    left: 0;
+    right: auto;
+}
